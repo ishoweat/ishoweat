@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on mah personl projects. <br>looking to collaborate on innovative open-soucre projects.<br>I'm looking for help with mastering complex data structures and algorithms<br>I'm currently learning to fine tuning large-language-models. <br>ask me about - How to get started with open source contributions. <br>fun fact - I spend more time tying my boots perfectly than actually scoring goals.<br><br>
+I'm currently working on mah personl projects. <br>looking to collaborate on innovative open-soucre projects.<br>I'm looking for help with mastering complex data structures and algorithms.<br>I'm currently learning to fine tuning large-language-models. <br>ask me about - How to get started with open source contributions. <br>fun fact - I spend more time tying my boots perfectly than actually scoring goals.<br><br>
 
 
 ## 🌐 Socials:
